@@ -1,0 +1,11 @@
+resources/                 # Directory for storing tutorial resources
+│
+├── data/                  # Directory for example datasets
+│   ├── dataset1.csv       # Example dataset 1 in CSV format
+│   ├── dataset2.json      # Example dataset 2 in JSON format
+│   └── ...                # Additional example datasets (e.g., dataset3.xlsx)
+│
+└── images/                # Directory for example images
+    ├── network_diagram.png  # Diagram illustrating a network topology
+    ├── traffic_flow_chart.jpg  # Chart showing network traffic flow
+    └── ...                # Additional example images (e.g., performance_graph.svg)
